@@ -13,3 +13,8 @@
 <p>TODAYS  PROGRESS: I finished the HTML and HTML 5 learning section on free code camp.</P>
 <p>THOUGHTS: I'm so happy to be finished with this section. I understand that HTML is a major key to web development and just by finishing this section, it has given me motivation to move on. </p>
 <p>LINK: https://twitter.com/Doreneluvsyou/status/1276294775352721413?s=20 </p>
+
+<h2>Day 6, June 26 2020</h2>
+<p>TODAYS PROGRESS: Started learning basic CSS functions.</p>
+<p>THOUGHTS: Basic CSS function does not seem to basic to me. It is such a huge part of the overall look of a web page. </p>
+<p>LINK: https://twitter.com/Doreneluvsyou/status/1276659767780544517?s=20 </p>
