@@ -18,3 +18,8 @@
 <p>TODAYS PROGRESS: Started learning basic CSS functions.</p>
 <p>THOUGHTS: Basic CSS function does not seem to basic to me. It is such a huge part of the overall look of a web page. </p>
 <p>LINK: https://twitter.com/Doreneluvsyou/status/1276659767780544517?s=20 </p>
+
+<h2>Day 7, June 27 2020</h1>
+<p>TODAYS PROGRESS: I'm midway with the CSS course on Free Code Camp. </p>
+<p>THOUGHTS: There are so many options to changing the style of a web page. I'm commiting to practicing the various ways of executing a function so I can become well versed with options.</p>
+<p>LINK:https://twitter.com/pslovedorenee/status/1277052924246601728?s=20 </p>
