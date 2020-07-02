@@ -25,6 +25,16 @@
 <p>LINK:https://twitter.com/pslovedorenee/status/1277052924246601728?s=20 </p>
 
 <h2> Day 8, June 28, 2020</h2>
+<p>TODAYS PROGRESS: I reviewed basic HTML by taking a quick course on youtube and created an HTML cheat sheet.</p>
+<p>THOUGHTS: I thought that  needed to cement my knowledge of what I know. This was a helpful review.</p>
+<p>LINK: https://twitter.com/pslovedorenee/status/1277412769898418177?s=20 </p>
+
+<h2> Day 9, June 29, 2020</h2>
 <p> TODAYS PROGRESS: I finished CSS on the free code camp. </p>
 <p> THOUGHTS: I'm feel like I have achieved a milestone with having knowledge of HTML and CSS, but of course I'm not naive to the fact that I need more practice.</p>
 <p> LINK: https://twitter.com/pslovedorenee/status/1277805881716027393?s=20 </p>
+
+<h2> Day 10, June 30, 2020</h2>
+<p>TODAYS PROGRESS: Began an HTML project on the Odin Project, which is to make a google homepage. </p>
+<p>THOUGHTS: The tasks seems challenging. I have not fully dived into it yet, being that I am doing alot of reading. </p>
+<p>LINK: https://twitter.com/pslovedorenee/status/1278167698011230209?s=20 </p>
