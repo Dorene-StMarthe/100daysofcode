@@ -38,3 +38,8 @@
 <p>TODAYS PROGRESS: Began an HTML project on the Odin Project, which is to make a google homepage. </p>
 <p>THOUGHTS: The tasks seems challenging. I have not fully dived into it yet, being that I am doing alot of reading. </p>
 <p>LINK: https://twitter.com/pslovedorenee/status/1278167698011230209?s=20 </p>
+
+<h2> Day 11, July 1, 2020</h2>
+<p>TODAYS PROGRESS: I progressed well with recreating a google homepage. Added the logo, search bar, and submit buttons.</p>
+<p>THOUGHTS: I ran into a few difficulties with configuring the margins of the search bar, which I later searched on google to help with the process. </p>
+<p> LINK: https://twitter.com/pslovedorenee/status/1278504602724438017?s=20 </p>
