@@ -43,3 +43,8 @@
 <p>TODAYS PROGRESS: I progressed well with recreating a google homepage. Added the logo, search bar, and submit buttons.</p>
 <p>THOUGHTS: I ran into a few difficulties with configuring the margins of the search bar, which I later searched on google to help with the process. </p>
 <p> LINK: https://twitter.com/pslovedorenee/status/1278504602724438017?s=20 </p>
+
+<h2> Day 17, July 8, 2020</h2>
+<p>TODAYS PROGRESS: worked on learning about the fundamentals ofJavascript. Primarily Numbers and variables. Toggled with various posibilities in the console</p>
+<p>THOUGHTS: I'm curious as to how these elements will apply to JavaScript as a whole. </p>
+<p> LINK:https://twitter.com/pslovedorenee/status/1281070558440980480?s=20 </p>
