@@ -49,7 +49,7 @@
 <p>THOUGHTS: I'm curious as to how these elements will apply to JavaScript as a whole. </p>
 <p> LINK:https://twitter.com/pslovedorenee/status/1281070558440980480?s=20 </p>
 
-<h2> Day 23, July 14,2020 </h>
-<p> TOODAY'S PROGRESS: I did alot of reading today on the Odin Project, about working with images and embedding images on a site. <p>
-<p>THOUGHTS: I'm excited to find various images and also use my personal images to add to my sites, it add alittle more of my creative side. <p>
-<p> LINK: 
+<h2> Day 23, July 14,2020 </h2>
+<p> TOODAY'S PROGRESS: I did alot of reading today on the Odin Project, about working with images and embedding images on a site. </p>
+<p>THOUGHTS: I'm excited to find various images and also use my personal images to add to my sites, it add alittle more of my creative side. </p>
+<p> LINK: https://twitter.com/pslovedorenee/status/1283249416871251968?s=20 </p>
